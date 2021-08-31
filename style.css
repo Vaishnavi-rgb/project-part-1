@@ -1,4 +1,9 @@
 iframe{
-    width:1500px;
-    height: 500px;
+   width: 100%;
+}
+travel_maindiv img{
+    width:60%;
+}
+.travel_maindiv hr{
+    width:230px;
 }
